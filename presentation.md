@@ -247,13 +247,13 @@ Upskill teams & miminize size
 
   <div class="left-half">
 
-### Architecture de l'infonuagique
+#### Architecture de l'infonuagique
 
   </div>
 
   <div class="right-half">
 
-### Cloud Architecture
+#### Cloud Architecture
 
   </div>
 
@@ -487,7 +487,7 @@ firewall !== security
 
   <div class="right-half">
   
-### Le moche
+### The Ugly
 
 - Maintenance issues
 - Ownership issues
