@@ -390,7 +390,7 @@ firewall !== security
 <div class="container">
 
   <div class="left-half">
-
+  
 ## Éléments retenus
 
 ### Les bons, les mauvais, et les vilains
@@ -408,12 +408,13 @@ firewall !== security
 <div class="shared-content-thin">
 
 <img src="./assets/images/the-good-the-bad-the-ugly.gif" class="image-x-large" alt="Scene from the classic western the Good, The Bad and The Ugly" />
+
 </div>
 
 </div>
 
 --
- 
+
 <div class="container">
 
   <div class="left-half">
@@ -439,7 +440,7 @@ firewall !== security
 </div>
 
 --
- 
+
 <div class="container">
 
   <div class="left-half">
