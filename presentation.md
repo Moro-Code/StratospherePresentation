@@ -393,7 +393,7 @@ firewall !== security
 
 ## Éléments retenus
 
-### The Good, The Bad... The Ugly
+### Les bons, les mauvais, et les vilains
 
   </div>
 
@@ -418,7 +418,7 @@ firewall !== security
 
   <div class="left-half">
   
-### The Good
+### Les bons
 
 - Multidisciplinary teams
 - Access to tooling
@@ -444,7 +444,7 @@ firewall !== security
 
   <div class="left-half">
   
-### The Bad
+### les mauvais
 
 - This was a bandaid
     - Interop 
@@ -477,7 +477,7 @@ firewall !== security
 
   <div class="left-half">
   
-### The Ugly
+### les vilains
 
 - Problèmes de maintenance
 - Problèmes de propriété
@@ -486,7 +486,7 @@ firewall !== security
 
   <div class="right-half">
   
-### The Ugly
+### Le moche
 
 - Maintenance issues
 - Ownership issues
