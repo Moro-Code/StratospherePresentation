@@ -272,11 +272,11 @@ Upskill teams & miminize size
 
   <div class="left-half">
 
-### Security Now
+### La sécurité en ce moment
 
-- regulatory/risk management perspective
-- checklist of approximately 300 items of which most were irrelevant
-- castle and moat approach
+- perspective réglementaire / gestion des risques
+- liste de contrôle d'environ 300 éléments dont la plupart n'étaient pas pertinents
+- approche du château et des douves
 
   </div>
 
