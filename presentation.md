@@ -496,6 +496,23 @@ firewall !== security
 
 </div>
 
+--
+
+<div class="container">
+
+  <div class="left-half">
+  
+C'est tout. Des questions?
+
+  </div>
+
+  <div class="right-half">
+  
+It's over. Questions?
+
+  </div>
+
+</div>
 
 <style>
 
