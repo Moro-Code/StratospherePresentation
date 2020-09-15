@@ -421,9 +421,9 @@ firewall !== security
   
 ### Les bons
 
-- Multidisciplinary teams
-- Access to tooling
-- It’s possible
+- Équipes multidisciplinaires
+- Accés aux outils non conforme
+- C'est possible
 
   </div>
 
@@ -432,7 +432,7 @@ firewall !== security
 ### The Good
 
 - Multidisciplinary teams
-- Access to tooling
+- Access to rogue tooling
 - It’s possible
 
   </div>
@@ -447,12 +447,12 @@ firewall !== security
   
 ### les mauvais
 
-- This was a bandaid
+- C'était un bandaid
     - Interop 
-    - Access to tooling
-    - Spreadsheet syndrome 
-    - Data integrity
-- Too much work, too little time
+    - Outils interne
+    - Syndrome du Excel
+    - Intégrité des données
+- Trop de travail, trop peu de temps
 
 
   </div>
@@ -463,7 +463,7 @@ firewall !== security
 
 - This was a bandaid
     - Interop 
-    - Access to tooling
+    - Internal tooling
     - Spreadsheet syndrome 
     - Data integrity
 - Too much work, too little time
