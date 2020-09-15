@@ -2,7 +2,7 @@
 
   <div class="left-half">
 
-### Application Liste blanche (Odoo)
+### Devops Journey: Over-engineering a Checkbox
 
 #### Le périple
 
@@ -12,7 +12,7 @@ Présentation Stratosphere
 
   <div class="right-half">
 
-### Whitelist Application (Odoo)
+### Devops Journey: Over-engineering a Checkbox
 
 #### The Journey
 
@@ -212,7 +212,6 @@ Upskill teams & miminize size
 ## How (for real)
 
 <img src="./assets/images/Whitelite-Showcase-IsThisAutomation.PNG" class="image-medium" alt="Is cloud automation? No" />
-<small>How government thinks of cloud</small>
 
   </div>
 
@@ -349,13 +348,13 @@ firewall !== security
 
   <div class="left-half">
 
- Hire good people and leave them alone
+ Hire good people not to tell them what to do, but for them to tell you what to do
 
   </div>
 
   <div class="right-half">
 
- Hire good people and leave them alone
+ Hire good people not to tell them what to do, but for them to tell you what to do
 
   </div>
 
