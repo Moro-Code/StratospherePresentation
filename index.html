@@ -57,12 +57,13 @@
                     else{
                         document.getElementsByTagName("html")[0].setAttribute(
                             "lang",
-                            "en"
+                            "en"S
                         )
                     }
 
                     document.getElementsByTagName("head")[0].appendChild(title)
                     document.getElementById("markdown-slides").setAttribute("data-markdown", markdown);
+                    console.log(markdown)
 
                 </script>
             </div>
