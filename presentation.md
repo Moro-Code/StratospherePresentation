@@ -2,7 +2,7 @@
 
   <div class="left-half">
 
-### Devops Journey: Over-engineering a Checkbox
+### Le voyage Devops: Sur-ingénierie d'une case à cocher
 
 #### Le périple
 
