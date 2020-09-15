@@ -38,7 +38,7 @@ Stratosphere Presentation
 <div class="container">
 
   <div class="left-half">
-    French Portion
+    Nous étions composés de deux équipes principales réparties dans deux DG de la même direction (DGIIT) ainsi que de collaborateurs de tout le gouvernement.
   </div>
 
   <div class="right-half">
@@ -297,14 +297,13 @@ Upskill teams & miminize size
 <div class="container">
   <div class="left-half">
 
-### What Security Should Be
+### La sécurité devrait être quoi?
 
-- [zero trust model](https://www.cloudflare.com/learning/security/glossary/what-is-zero-trust/)
-- automated security checks rather.
-- focus on application and network security.
-- data no longer needs to be on prem to be secure.
+- [modèle de confiance zéro](https://www.cloudflare.com/learning/security/glossary/what-is-zero-trust/)
+- contrôles de sécurité automatisés
+- Concentrez-vous sur la sécurité des applications et du réseau
 
-firewall !== security
+pare-feu !== La sécurité
 
   </div>
 
@@ -313,9 +312,8 @@ firewall !== security
 ### What Security Should Be
 
 - [zero trust model](https://www.cloudflare.com/learning/security/glossary/what-is-zero-trust/)
-- automated security checks rather.
-- focus on application and network security.
-- data no longer needs to be on prem to be secure.
+- automated security checks
+- focus on application and network security
 
 firewall !== security
 
@@ -348,7 +346,7 @@ firewall !== security
 
   <div class="left-half">
 
- Hire good people not to tell them what to do, but for them to tell you what to do
+ Embauchez de bonnes personnes non pas pour leur dire quoi faire, mais pour qu'elles vous disent quoi faire
 
   </div>
 
@@ -366,12 +364,12 @@ firewall !== security
 
   <div class="left-half">
   
-### The Other Stuff
+### Les autre choses
 
-- Access to modern tooling 
-- Ability to automate
-- Necessary skills and interoperability
-
+- Accés aux outils modern
+- L'automatisation
+- Compétences nécessaires
+- Interopérabilité
 
   </div>
 
@@ -481,8 +479,8 @@ firewall !== security
   
 ### The Ugly
 
-- Maintenance issues
-- Ownership issues
+- Problèmes de maintenance
+- Problèmes de propriété
 
   </div>
 
