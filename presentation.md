@@ -2,7 +2,7 @@
 
   <div class="left-half">
 
-### Le voyage Devops: Sur-ingénierie d'une case à cocher
+### Le voyage Devops: Pourquoi faire simple quand on peut faire compliqué
 
 #### Le périple
 
